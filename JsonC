@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Criar wireframes do novo dashboard",
+      "description": "Desenhar a estrutura das telas principais para validação com o cliente.",
+      "project": "Projeto Alpha",
+      "assignee": "Mariana",
+      "status": "todo",
+      "dueDate": "2026-08-20"
+    },
+    {
+      "id": 2,
+      "title": "Configurar ambiente de produção",
+      "description": "Subir os containers e configurar variáveis de ambiente no servidor.",
+      "project": "Projeto Beta",
+      "assignee": "Carlos",
+      "status": "progress",
+      "dueDate": "2026-08-18"
+    },
+    {
+      "id": 3,
+      "title": "Revisar orçamento do trimestre",
+      "description": "Analisar despesas e receitas para fechamento do balanço.",
+      "project": "Financeiro",
+      "assignee": "Rafael",
+      "status": "done",
+      "dueDate": "2026-08-10"
+    }
+  ]
+}
